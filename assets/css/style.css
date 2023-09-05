@@ -1,0 +1,97 @@
+* {
+  font-family: "Work Sans", sans-serif;
+  color: white;
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: #041c32;
+}
+
+.navbar {
+  background-color: #02182c !important;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #ecb365;
+}
+
+.navbar-brand:hover {
+  color: #ecb365;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.nav-link:hover {
+  color: #ecb365 !important;
+}
+
+.my-name {
+  font-size: 40px;
+  color: #ecb365;
+}
+
+.contact-me-btn {
+  display: block;
+  text-decoration: none;
+  color: #02182c;
+  font-weight: 500;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  background-color: #ecb365;
+  border-radius: 35px;
+  width: 250px !important;
+}
+
+.contact-me-btn:hover {
+  background-color: #c68f42;
+}
+
+.section-title {
+  color: #ecb365;
+}
+
+.sertificate-download-btn {
+  display: block;
+  margin-top: 10px;
+  width: 200px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #ecb365;
+  color: black;
+  text-align: center;
+}
+
+.sertificate-download-btn:hover {
+  background-color: #c68f42;
+}
+
+.my-project {
+  margin-top: 100px;
+  padding-top: 50px;
+  background-color: #064663;
+}
+
+.open-project-btn {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 50px;
+  background-color: #ecb365;
+  color: black;
+  text-align: center;
+}
+
+.open-project-btn:hover {
+  background-color: #c68f42;
+}
+
+.copyright {
+  color: #a7a7a7;
+  font-size: 14px;
+}
